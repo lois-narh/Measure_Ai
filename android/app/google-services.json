@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597972793241",
+    "project_id": "measure-ai-f4b70",
+    "storage_bucket": "measure-ai-f4b70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597972793241:android:485b9b1aff55d04cb38508",
+        "android_client_info": {
+          "package_name": "com.example.measure_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtARf_YzBreEo2-a7a1tIPleP3Jh3I6V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
